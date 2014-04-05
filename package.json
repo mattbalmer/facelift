@@ -1,0 +1,13 @@
+{
+  "name": "FaceLift",
+  "version": "0.0.1",
+  "devDependencies": {
+    "nib": "*",
+    "grunt": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-stylus": "*",
+    "grunt-contrib-jade": "*",
+    "grunt-contrib-coffee": "*",
+    "grunt-contrib-concat": "*"
+  }
+}

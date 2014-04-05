@@ -1,0 +1,17 @@
+{
+  "name": "FaceLift",
+  "version": "0.0.1",
+  "description": "This extension provides extra utilities to Facebook.",
+  "main": "manifest.json",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "Matt Balmer <matt@mattbalmer.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "jquery": "~2.1.0"
+  }
+}
