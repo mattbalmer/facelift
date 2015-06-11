@@ -1,3 +1,5 @@
 .idea
 node_modules
 facelift.zip
+.DS_STORE
+facelift.pem
