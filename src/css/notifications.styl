@@ -3,20 +3,28 @@
 
 #pagelet_bluebar
 
-    #jewelContainer, .notifCentered, ._3t_z
+    [role=navigation] > div:nth-child(2)
         background #9aa9c8
         border 1px solid #33518F
         border-radius 5px
         display block
         height 30px
-        left -725px
+        left 48px
         position absolute
+        top 5px
+
+        ._4kny
+            position relative
+            top -5px
+
+            &:nth-child(3)
+                top -6px
 
         .jewelBeeperHeader
             left -289px
             position relative
 
-        #fbMessagesFlyout, #u_0_2.uiToggleFlyout
+        #fbMessagesFlyout, #u_0_2.uiToggleFlyout, .uiToggleFlyout
             left -80px
 
         #fbNotificationsFlyout
